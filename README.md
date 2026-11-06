@@ -1,4 +1,4 @@
-# dj-set-reels
+# nonsense-reels
 
 Turn a filmed DJ set into beat-synced vertical reels (9:16) with Claude Code. Claude finds the drops,
 cuts between your cameras on the beat, and writes POV captions that land on the exact frame. It also
@@ -23,8 +23,8 @@ Built by ZWYSS for their set at NONSENSE. The default style is theirs and adapts
 ## Install
 
 ```bash
-git clone https://github.com/TheZwiss/dj-set-reels.git
-cd dj-set-reels
+git clone https://github.com/TheZwiss/nonsense-reels.git
+cd nonsense-reels
 ./install.sh
 ```
 
